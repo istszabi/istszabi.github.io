@@ -54,3 +54,18 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+<h3>Kapcsolatfelvétel</h3>
+<p>Kérdés vagy együttműködés esetén elérhető vagyok az alábbi csatornákon:</p>
+
+<div class="contact-links" style="display: flex; gap: 1rem; align-items: center;">
+  <a href="mailto:istszabi@google.com" aria-label="E-mail küldése közvetlenül">
+    ✉️ E-mail küldése
+  </a>
+  <a href="https://github.com/istszabi" target="_blank" rel="noopener noreferrer" aria-label="GitHub profil megtekintése új lapon">
+    🐙 GitHub profil
+  </a>
+  <a href="https://linkedin.com/in/felhasznalonev" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn profil megtekintése új lapon">
+    💼 LinkedIn profil
+  </a>
+</div>
