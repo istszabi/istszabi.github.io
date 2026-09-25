@@ -23,10 +23,10 @@ repository               : "istszabi/istszabi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Istok Szabolcs"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Istok Szabolcs, 22"
   location         : "Tg Mures"
   employer         : "UMFST"
   uri              : # URL
