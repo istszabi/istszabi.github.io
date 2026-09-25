@@ -47,6 +47,24 @@ author_profile: true
       background-color: #000000;
     }
   }
+
+  @media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+  }
+  #sakktabla {
+    border-color: #555555;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
+  }
+  #sakktabla td {
+    background-color: #cfbda8;
+  }
+  #sakktabla tr:nth-child(odd) td:nth-child(even),
+  #sakktabla tr:nth-child(even) td:nth-child(odd) {
+    background-color: #4a3728;
+  }
+}
 </style>
 
 <table id='sakktabla' cellspacing=0>
